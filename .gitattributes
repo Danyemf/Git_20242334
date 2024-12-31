@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+public static void main(String[] args) {
+         Scanner myKB = new Scanner(System.in);
+   
+        System.out.println("Daniel - 2024243");
